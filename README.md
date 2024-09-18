@@ -25,10 +25,13 @@ Gain first party data! Access and analyze all your fan data to gain valuable ins
 ### Engagement & Campaigns💬
 Launch engaging campaigns that increase your social media reach by incentivizing your closest fans. Also engage and get instant community feedback through comments, surveys, DMs and more.
 
-
+/n
+/n
 
 Followers and Listeners peaked but engagement is on a downfall - stop playing the algorithms attention game and start winning by really owning your channel and fan connections!✨
 
+/n
+/n
 
 
 <a href="https://www.linkedin.com/company/fr3n">LinkedIn</a>
