@@ -27,8 +27,8 @@ Launch engaging campaigns that increase your social media reach by incentivizing
 
 Followers and Listeners peaked but engagement is on a downfall - stop playing the algorithms attention game and start winning by really owning your channel and fan connections!✨
 
-LinkedIn: https://www.linkedin.com/company/fr3n
-Instagram: https://www.instagram.com/fr3n.tech/
-Twitter: https://twitter.com/FR3N_tech
-Website: https://fr3n.tech/
-GitHub Repo: https://github.com/jakobfwerner/fr3n-frontend
+<a href="https://www.linkedin.com/company/fr3n">LinkedIn</a>
+<a href="https://www.instagram.com/fr3n.tech/">Instagram</a>
+<a href="https://twitter.com/FR3N_tech">Twitter</a>
+<a href="https://fr3n.tech/">Website</a>
+<a href="https://github.com/jakobfwerner/fr3n-frontend">GitHub Repo</a>
