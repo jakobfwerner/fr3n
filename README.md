@@ -26,8 +26,8 @@ Get access to all your fan data, analyze it, and learn from it. fr3n ensures tha
 Get immediate community feedback through comments, surveys, and more.
 
 
-LinkedIn: https://www.linkedin.com/company/fr3n
-Instagram: https://www.instagram.com/fr3n.tech/
-Twitter: https://twitter.com/FR3N_tech
-Website: https://fr3n.tech/
-GitHub Repo: https://github.com/jakobfwerner/fr3n-frontend
+[LinkedIn](https://www.linkedin.com/company/fr3n)
+[Instagram](https://www.instagram.com/fr3n.tech/)
+[Twitter](https://twitter.com/FR3N_tech)
+[Website](https://fr3n.tech/)
+[GitHub Repo](https://github.com/jakobfwerner/fr3n-frontend)
